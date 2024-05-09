@@ -1,0 +1,42 @@
+CHAPTER 1: INTRODUCTION
+1.1	Background of Study
+Every day, loads of information, reviews, and opinions flood social media and online services in their raw form. To handle this data effectively, we need proper methods. As humans, we use various cues to understand emotions. Whether it's the tone of someone's voice, the words they use, their facial expressions, or body language, we're pretty good at figuring out how someone feels. We've trained our brains over time to recognize different emotions.
+Teaching a computer to understand the tone of a piece of text involves a lot of steps. While computers can learn languages to some extent, there are challenges, like picking up on sarcasm or understanding words in different contexts. Another tricky part is separating the important data from the stuff that doesn't matter. If we don't filter out the extra stuff, it can mess up our results (Raheesa & Sharmila, Apr -2017).
+So, we're suggesting an advanced Sentiment Analysis Algorithm for Product Rating systems. This algorithm aims to dig out hidden feelings in comments and then rate the products accordingly. By using sentiment analysis techniques, we hope to give people a sense of whether the overall sentiment in the comments is positive, negative, or somewhere in between. This way, they can make better decisions.
+1.2	Problem Statement
+Sentiment analysis has become a crucial tool for e-commerce websites, offering valuable insights into customer feedback and sentiment. This, in turn, improves customer satisfaction, boosts loyalty, and aids in product development and reputation management. However, there are challenges inherent in sentiment analysis that need addressing to ensure its effectiveness and reliability. These challenges include the necessity for accurate and extensive data, as well as the complexity of handling sarcasm and irony.
+Our sentiment analysis algorithm aims to tackle these issues head-on. It is designed to handle large-scale data effectively and adeptly navigate the nuances of sarcasm and irony. Unlike traditional methods that may struggle with such nuances, our model takes a holistic approach. Instead of merely searching for specific keywords, it analyzes entire sentences, making it less susceptible to being misled. Additionally, our model incorporates features to identify and interpret expressions containing asterisks, further enhancing its accuracy and robustness.
+1.3	Research Questions
+1.3.1 Main Research Question
+How can machine learning be utilized to develop and deploy a sentiment analysis algorithm for product reviews?
+1.3.2 Specific Research Questions
+The specific inquiries addressed in this study are as follows:
+1.	Is it feasible to develop a model capable of analyzing comments posted on an e-commerce website?
+2.	Which machine learning algorithm is most suitable for performing sentiment analysis?
+3.	What metrics are appropriate for evaluating the performance of the sentiment analysis model?
+4.	What strategies can be employed to seamlessly integrate a sentiment analysis algorithm into a platform or system?
+1.4	Research Objectives
+1.4.1	General Objective
+The main objective of this study is to design and implement sentiment analysis algorithm for product review.
+1.4.2	Specific Research Objectives
+The specific objectives of this study are:
+1.	To develop a machine learning program that can be used to analyze comment in an e-commerce website.
+2.	To determine the best machine learning algorithm for sentiment analysis.
+3.	To use performance evaluation to measure the performance of the algorithm. 
+4.	To integrate a sentiment analysis algorithm on an ecommerce web site
+1.5	Importance of the Study
+ Online shopping has become one of the most convenient methods for purchasing products, facilitating market access for many sellers. However, shoppers often struggle with the uncertainty of product quality, which can hinder their purchasing decisions. Additionally, e-commerce platform owners seek insights into customer preferences to optimize their product offerings. The proposed sentiment analysis algorithm aims to address these challenges by not only assisting customers in making informed purchasing decisions but also aiding platform owners in analyzing customer preferences.
+Sentiment analysis plays a crucial role in enhancing the shopping experience on ecommerce websites. By promptly identifying and addressing customer concerns and feedback, these platforms can improve customer satisfaction and loyalty. Acknowledging and acting upon customer feedback increases the likelihood of repeat visits to the website, thereby fostering customer loyalty.
+Furthermore, the algorithm can benefit young entrepreneurs by enabling them to test their products in the market before committing to mass production. By analyzing customer sentiment towards their offerings, entrepreneurs can refine their products based on feedback, ultimately increasing the likelihood of success in the market.
+1.6	Scope and Delimitations
+The scope of this project is defined by several considerations and limitations:
+1.	The research will focus solely on analyzing text data in the English language. Other languages will not be considered within the scope of this study.
+2.	Sentiment analysis faces challenges in interpreting user comments consistently. A comment deemed positive in one context may be considered negative in another. Despite this challenge, the analysis will endeavor to interpret comments accurately by examining them individually.
+3.	Users may express opinions differently, resulting in varied sentiments within reviews. While most reviews contain both positive and negative elements, the analysis will strive to manage this complexity by evaluating sentences individually.
+4.	There is a risk of encountering fake comments, which could skew the analysis results by providing inaccurate feedback about the product. While efforts will be made to mitigate this risk, it remains a limitation of the study.					                17 Definition of Terms
+1.	Sentiment Analysis: Sentiment analysis or opinion mining is the use of natural language processing, text analysis, computational linguistics and biometrics to systematically identify, extract, quantify and study affective states and subjective information. It focuses on the polarity of text (positive, negative or neutral), specific feelings and emotions (angry, happy, sad, etc.) and even intentions. It is mostly used by companies to automatically analyze customer feedback.
+2.	Machine Learning: Machine learning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so
+3.	Natural Language Processing: NLP is a field of artificial intelligence in which computers, analyze, understand, and derive meaning from human language in a smart and useful way.
+4.	Model: A machine learning model is a program that can find patterns or make decisions from a previously unseen dataset.
+5.	Sarcasm: Sarcasm refers to the use of words that mean the opposite of what really you want to say, especially in order to insult a product, or to show irritation. For example, “the cloths are really on top of things” to describe a set of cloths that are very disorganize. 
+ 
