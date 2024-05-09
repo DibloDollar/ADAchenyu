@@ -1,4 +1,4 @@
-CHAPTER 1: INTRODUCTION
+### CHAPTER 1: INTRODUCTION
 1.1	Background of Study
 Every day, loads of information, reviews, and opinions flood social media and online services in their raw form. To handle this data effectively, we need proper methods. As humans, we use various cues to understand emotions. Whether it's the tone of someone's voice, the words they use, their facial expressions, or body language, we're pretty good at figuring out how someone feels. We've trained our brains over time to recognize different emotions.
 Teaching a computer to understand the tone of a piece of text involves a lot of steps. While computers can learn languages to some extent, there are challenges, like picking up on sarcasm or understanding words in different contexts. Another tricky part is separating the important data from the stuff that doesn't matter. If we don't filter out the extra stuff, it can mess up our results (Raheesa & Sharmila, Apr -2017).
